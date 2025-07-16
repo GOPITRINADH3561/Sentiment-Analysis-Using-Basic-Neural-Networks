@@ -1,4 +1,4 @@
-📈 Sentiment Analysis Using Neural Networks
+# 📈 Sentiment Analysis Using Neural Networks
 
 🧠 Overview:
 This project performs sentiment classification on financial sentences into:
